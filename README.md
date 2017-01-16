@@ -4,4 +4,4 @@ The R package EBEN_4.6.tgz can be found in https://cran.r-project.org/web/packag
 
 The bc_matrix.txt includes the miRNA expression data and the pathological data.
 
-The R script submit.R shows the whole pipeline to analysis the main and epistasis effect using miRNA expression and pathological data.
+The R script submit.R shows the whole pipeline to analyze the main and epistasis effect of microRNA expression on pathological stages of colon cancer. This pipeline can be adjusted to investigate the main and epistasis effect of other biological entities using appropriate datasets. 
