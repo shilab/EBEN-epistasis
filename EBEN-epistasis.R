@@ -3,7 +3,7 @@ setwd('~/Coloncancer/');
 library('EBEN');
 
 ## Input the miRNA data and pathological data
-mi <- read.table("./forSubmission_12272016/Software_Data/bc_matrix.txt",header=T);
+mi <- read.table("./bc_matrix.txt",header=T);
 mi <- as.matrix(mi);
 
 ## Remove the samples without pathological data
